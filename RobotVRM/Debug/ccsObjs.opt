@@ -1,0 +1,1 @@
+"./ADC12.obj" "./BCM.obj" "./TMR0_A3.obj" "./TMR0_B7.obj" "./UART.obj" "./WDT.obj" "./commands.obj" "./hardware_TMR_149.obj" "./main.obj" "../lnk_msp430f149.cmd" -llibc.a 
