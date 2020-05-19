@@ -1,0 +1,1 @@
+"./ADC10.obj" "./BCM.obj" "./Port_P2.obj" "./TMR0_A3.obj" "./WDT.obj" "./hardware.obj" "./main.obj" "../lnk_msp430g2452.cmd" -llibc.a 

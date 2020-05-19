@@ -1,0 +1,7 @@
+MSP430_TMR_Submodule_01
+
+Program pro MSP430G2452 v robotovi TMR.
+Snímá polohu èáry a posílá povel pro øízení do Supervizoru.
+
+Pøi doteku na kapacitní snímaè simuluje poruchu.
+

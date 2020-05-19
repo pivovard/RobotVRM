@@ -1,0 +1,13 @@
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.exe.config
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.exe
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.pdb
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.csprojAssemblyReference.cache
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.exe
+C:\Users\pivov\_dev\NMS\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.pdb
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.exe.config
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.exe
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\bin\Debug\VR_SerialPortCom2.pdb
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.csprojAssemblyReference.cache
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.csproj.CoreCompileInputs.cache
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.exe
+c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom2\obj\Debug\VR_SerialPortCom2.pdb
