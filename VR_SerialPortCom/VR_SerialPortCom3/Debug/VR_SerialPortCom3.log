@@ -1,4 +1,0 @@
-﻿  VR_SerialPortCom3.cpp
-c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom3\VR_SerialPortCom3.cpp(20,73): error C2664: 'bool SerialPort::writeSerialPort(char *,unsigned int)': cannot convert argument 1 from 'const char [13]' to 'char *'
-c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom3\VR_SerialPortCom3.cpp(20,45): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
-c:\Users\pivov\_dev\NMS\Voice Recognition\VR_SerialPortCom\VR_SerialPortCom3\SerialPort.h(31,10): message : see declaration of 'SerialPort::writeSerialPort'
