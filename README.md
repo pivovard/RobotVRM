@@ -1,7 +1,6 @@
 # RobotVRM
 
-Control Robot vehicle (RobotTMR - ZCU) with mobile app or voice recognition module.
-Communication with robot is via HM-10 BLE module (HMSoft firmware required - [how to flash the firmware](https://circuitdigest.com/node/3688)) or 433MHz module.
+Control Robot vehicle (RobotTMR - ZCU) with mobile app or voice recognition module. This project started as semestral work for KIV/NMS
 
 * MSP430 - additional msp430 libraries
 * Robot TMR - original robot folowing line
@@ -10,7 +9,8 @@ Communication with robot is via HM-10 BLE module (HMSoft firmware required - [ho
 * VR_SerialPortCom - Win app to train and test VRM module
 
 ### RobotVRM
-Firmware for supervisor MSP430 MCU. Updated original firmware with communication on UART0.
+Firmware for supervisor MSP430 MCU. Updated original firmware with communication on UART0.\
+Communication with robot is via connected HM-10 BLE module (HMSoft firmware required - [how to flash the firmware](https://circuitdigest.com/node/3688))
 
 #### Pins to connect HM-10 and 433Mhz module:
 * VCC/GND - H5 (VCC next to 22uF capacitor)
